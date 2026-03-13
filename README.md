@@ -77,7 +77,7 @@ Comunicação assertiva e atendimento empático · Diagnóstico rápido e analí
 ## 📫 Contato
 - 📍 Continental – SP  
 - ✉️ **raphaelgomesmanceraiphone@gmail.com**  
-- 📞 **(11) 96083-7887** *(opcional exibir público)*  
+- 📞 **(11) 96083-7887**  
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/raphael-gomes-mancera-0927b8364  
 - 🔗 **GitHub:** https://github.com/RaphaelGomesMancera
 
