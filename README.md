@@ -54,7 +54,6 @@ Atuar como desenvolvedor **Full Stack** em ambiente ágil, aplicando boas práti
 - **Lava-Rápido Website (Next.js)** — Site responsivo com formulário de pedidos e cards interativos.  
 - **Previsão baseada no IDH** — Análise estatística e modelagem preditiva (Google Colab).  
 
-> 💡 Dica: fixe (pin) 3–6 repositórios no seu perfil para destacar esses projetos.
 
 ## 📜 Certificados
 - DevOps – FIAP (2025)  
