@@ -70,7 +70,7 @@ Comunicação assertiva e atendimento empático · Diagnóstico rápido e analí
 
 ## 🌐 Idiomas
 - **Inglês Intermediário:** leitura e escrita fluentes; boa compreensão oral.  
-- **Curso:** Yázigi São Francisco — 9 meses
+- **Curso:** Yázigi São Francisco — + 1 ano
 
 ---
 
