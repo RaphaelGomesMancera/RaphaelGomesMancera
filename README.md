@@ -45,7 +45,8 @@ Atuar como desenvolvedor **Full Stack** em ambiente ágil, aplicando boas práti
 **Outros:** Figma, IA & Chatbots
 
 ## 📌 Projetos em Destaque
-- **4 Wheels App** — Diagnóstico automotivo via OBD2 com IA e GPS, focado em usabilidade (heurísticas de Nielsen).  
+- **4 Wheels App** — Diagnóstico automotivo via OBD2 com IA e GPS, focado em usabilidade (heurísticas de Nielsen).
+- Sistema de Cadastro de Produtos — Aplicação em C#/.NET para cálculo de custos, aplicação de descontos e identificação do produto com maior valor final.
 - **Sistema de Reservas de Passagens Aéreas** — CRUD completo, consultas otimizadas e modelagem em BRModelo.  
 - **Fábrica de Móveis Madeira de Lei** — Controle de produção: requisitos → modelo físico.  
 - **Hospital das Clínicas Chatbot** — Agendamento/cancelamento + integração Telegram/Webchat (STT/TTS).  
